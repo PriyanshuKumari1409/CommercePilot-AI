@@ -87,8 +87,8 @@ npm run dev
 Create a `.env` file in the `backend` folder:
 
 ```env
-GEMINI_API_KEY=your_gemini_key
-SERPAPI_KEY=your_serpapi_key
+GEMINI_API_KEY=gemini_key
+SERPAPI_KEY=serpapi_key
   ```
 
 ## Demo / Screenshots
@@ -118,6 +118,6 @@ SERPAPI_KEY=your_serpapi_key
 - Generates an audit trail and PDF report for every negotiation.
 
 
-## Conclusion
+## Link to visit Website
 
-CommercePilot AI demonstrates a practical multi-agent AI commerce workflow with negotiation, fallback handling, human approval, and auditability. It is designed to be explainable, bounded, and reliable for real shopping decisions.
+👉 [GitHub Repository](https://github.com/PriyanshuKumari1409/CommercePilot-AI)
