@@ -37,7 +37,7 @@ function ChatPanel({
       setStep(2);
 
       const { data } = await axios.post(
-        "http://localhost:5000/api/negotiate",
+        "https://commercepilot-ai-nem3.onrender.com/api/negotiate",
         {
           goal,
           budget: Number(budget),

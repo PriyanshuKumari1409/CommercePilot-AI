@@ -117,7 +117,6 @@ SERPAPI_KEY=serpapi_key
 - Keeps the final decision human-approved.
 - Generates an audit trail and PDF report for every negotiation.
 
+## Link to Visit Website
 
-## Link to visit Website
-
-👉 [GitHub Repository](https://github.com/PriyanshuKumari1409/CommercePilot-AI)
+👉 [CommercePilot AI](https://commercepilot-ai-1.onrender.com)
