@@ -1,0 +1,20 @@
+{
+  "timeline": [
+    {
+      "agent": "Buyer",
+      "message": "Can you reduce the price a little?"
+    },
+    {
+      "agent": "Seller",
+      "message": "I can offer it for ₹3999."
+    },
+    {
+      "agent": "Buyer",
+      "message": "Can you include fast delivery?"
+    },
+    {
+      "agent": "Seller",
+      "message": "Yes, free delivery by tomorrow."
+    }
+  ]
+}
